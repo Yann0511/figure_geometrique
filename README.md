@@ -1,1 +1,3 @@
-# figure_geometrique \n Calcul du perimetre et de l'aire de quelque figure géometrique usuelle
+# figure_geometrique 
+
+Calcul du perimetre et de l'aire de quelque figure géometrique usuelle
